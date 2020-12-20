@@ -1,1 +1,11 @@
-# contact
+{
+"user":[ {"id":"",  "name":"",
+"date_of_birth":"",
+ "phnone_no":"", "email":"",
+ "timpstamp":"" }]}
+
+{"contact":[ {"userIdone":"",
+"userIdtwo": "", 
+"Timestamp":"" }]})
+
+}
